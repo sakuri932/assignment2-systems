@@ -133,7 +133,7 @@ wheels = [
 
 [[package]]
 name = "cs336-basics"
-version = "26.0.0"
+version = "26.0.4"
 source = { editable = "cs336-basics" }
 dependencies = [
     { name = "einops" },
